@@ -9,3 +9,6 @@ git add NOMDUFICHIER
 
 Enregistrer les modifications
 git commit -m "MESSAGE_A_RENSEIGNER"
+
+Enregistrer les modifications sur un fichier modifié
+git commit -am "MESSAGE_A_RENSEIGNER"

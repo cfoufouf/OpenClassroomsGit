@@ -7,3 +7,6 @@ git add README.md
 git commit -m "Ajout du fichier README.md"
 git remote add origin ADRESSE_HTTPS_DU_PROJET
 git push -u origin master
+
+Pour maintenir à jour ses sources depuis le serveur
+git pull origin master
