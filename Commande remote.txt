@@ -1,0 +1,9 @@
+Créer un nouveau projet sur github sans activer le README si le projet existe déjà
+
+Commandes pour maintenir à jour à partir de github
+echo "# OpenClassroomsGit" >> README.md
+git init
+git add README.md
+git commit -m "Ajout du fichier README.md"
+git remote add origin ADRESSE_HTTPS_DU_PROJET
+git push -u origin master
