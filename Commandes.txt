@@ -1,0 +1,11 @@
+Vérifier le statut du repository
+git status
+
+Ajouter des fichiers à l'index
+git add .
+
+Ajouter un fichier à l'index
+git add NOMDUFICHIER
+
+Enregistrer les modifications
+git commit -m "MESSAGE_A_RENSEIGNER"
